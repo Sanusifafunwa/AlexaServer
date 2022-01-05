@@ -1,7 +1,7 @@
 {
   "name": "alexaserver",
   "version": "1.0.0",
-  "description": "Sample Alexa Server Project",
+  "description": "Alexa Server Project",
   "main": "index.js",
   "dependencies": {
     "alexa-app-server": "^2.2.4"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kenji776/AlexaServer1.git"
+    "url": "git+https://github.com/Sanusifafunwa/AlexaServer.git"
   },
   "keywords": [
     "alexa",
@@ -23,7 +23,7 @@
   "author": "Daniel Llewellyn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Kenji776/AlexaServer1/issues"
+    "url": "https://github.com/Sanusifafunwa/AlexaServer/issues"
   },
-  "homepage": "https://github.com/Kenji776/AlexaServer1#readme"
+  "homepage": "https://github.com/Sanusifafunwa/AlexaServer#readme"
 }
